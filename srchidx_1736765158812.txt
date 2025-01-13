@@ -11,7 +11,7 @@
                 0,
                 0.346,
                 1,
-                0.346,
+                0.098,
                 2,
                 0.346,
                 3,
@@ -24,209 +24,209 @@
             "text//MeetAndTalk/",
             [
                 0,
-                0.262,
+                0.299,
                 1,
-                0.65,
+                0.197,
                 2,
-                0.727,
+                0.765,
                 3,
-                0.83,
+                0.858,
                 4,
-                0.693,
+                0.734,
                 5,
-                0.546,
+                0.624,
                 6,
-                0.872,
+                0.968,
                 7,
-                1.088,
+                1.186,
                 8,
-                0.546,
+                0.624,
                 9,
-                0.546,
+                0.624,
                 10,
-                1.357,
-                11,
-                1.088,
-                12,
-                1.088,
-                13,
-                0.546,
-                14,
                 1.447,
+                11,
+                1.186,
+                12,
+                0.568,
+                13,
+                0.624,
+                14,
+                1.531,
                 15,
-                0.872,
+                0.968,
                 16,
-                0.546,
+                0.624,
                 17,
-                0.872,
+                0.968,
                 18,
-                0.546,
+                0.624,
                 19,
-                0.546,
+                0.624,
                 20,
-                0.546,
+                0.624,
                 21,
-                0.546,
+                0.624,
                 22,
-                0.872,
+                0.968,
                 23,
-                0.546,
+                0.624,
                 24,
-                0.546,
+                0.624,
                 25,
-                0.546,
+                0.624,
                 26,
-                0.546,
+                0.624,
                 27,
-                0.546,
+                0.624,
                 28,
-                0.546,
+                0.624,
                 29,
-                0.546,
+                0.624,
                 30,
-                0.546,
+                0.624,
                 31,
-                0.546,
+                0.624,
                 32,
-                0.546,
+                0.624,
                 33,
-                0.546,
+                0.624,
                 34,
-                0.546,
+                0.624,
                 35,
-                0.546,
+                0.299,
                 36,
-                0.546,
+                0.624,
                 37,
-                0.546,
+                0.624,
                 38,
-                0.872,
+                0.968,
                 39,
-                0.872,
+                0.968,
                 40,
-                0.872,
+                0.968,
                 41,
-                0.546,
+                0.624,
                 42,
-                0.546,
+                0.624,
                 43,
-                0.546,
+                0.624,
                 44,
-                0.546,
+                0.624,
                 45,
-                0.546,
+                0.624,
                 46,
-                1.242,
+                1.337,
                 47,
-                0.546,
+                0.624,
                 48,
-                0.546,
+                0.624,
                 49,
-                0.546,
+                0.624,
                 50,
-                0.872,
+                0.968,
                 51,
-                0.546,
+                0.624,
                 52,
-                0.546,
+                0.624,
                 53,
-                0.546,
+                0.624,
                 54,
-                0.546,
+                0.624,
                 55,
-                0.546,
+                0.624,
                 56,
-                0.546,
+                0.624,
                 57,
-                0.546,
+                0.624,
                 58,
-                0.546,
+                0.624,
                 59,
-                0.546,
+                0.624,
                 60,
-                0.872,
+                0.968,
                 61,
-                0.546,
+                0.624,
                 62,
-                0.546,
+                0.624,
                 63,
-                0.546,
+                0.624,
                 64,
-                0.546,
+                0.624,
                 65,
-                0.546,
+                0.624,
                 66,
-                0.546,
+                0.624,
                 67,
-                0.546,
+                0.624,
                 68,
-                0.546,
+                0.624,
                 69,
-                1.088,
+                0.568,
                 70,
-                0.546,
+                0.624,
                 71,
-                0.546,
+                0.624,
                 72,
-                0.546,
+                0.624,
                 73,
-                0.546,
+                0.624,
                 74,
-                0.546,
+                0.624,
                 75,
-                0.546,
+                0.624,
                 76,
-                0.546,
+                0.624,
                 77,
-                0.546,
+                0.624,
                 78,
-                0.546,
+                0.624,
                 79,
-                0.546,
+                0.624,
                 80,
-                0.546,
+                0.624,
                 81,
-                0.546,
+                0.624,
                 82,
-                0.546,
+                0.624,
                 83,
-                0.546,
+                0.624,
                 84,
-                0.546,
+                0.624,
                 85,
-                0.546,
+                0.624,
                 86,
-                0.546,
+                0.624,
                 87,
-                0.546,
+                0.624,
                 88,
-                0.546,
+                0.624,
                 89,
-                0.546,
+                0.624,
                 90,
-                0.546,
+                0.624,
                 91,
-                0.546,
+                0.624,
                 92,
-                0.546,
+                0.624,
                 93,
-                0.546,
+                0.624,
                 94,
-                0.546,
+                0.624,
                 95,
-                0.546,
+                0.624,
                 96,
-                0.872,
+                0.968,
                 97,
-                0.546,
+                0.624,
                 98,
-                0.546,
+                0.624,
                 99,
-                0.546,
+                0.624,
                 100,
-                0.872,
+                0.464,
                 101,
-                0.074
+                0.085
             ]
         ],
         [
@@ -241,24 +241,84 @@
         [
             "text//MeetAndTalk/documentation/version-difference/",
             [
+                1,
+                0.161,
+                12,
+                0.565,
+                35,
+                0.565,
+                69,
+                0.731,
+                100,
+                0.565,
                 101,
-                0.22,
+                0.23,
                 102,
-                0.776
+                0.565,
+                103,
+                1.18,
+                104,
+                1.18,
+                105,
+                1.18,
+                106,
+                1.18,
+                107,
+                1.18,
+                108,
+                1.18,
+                109,
+                1.18,
+                110,
+                1.18,
+                111,
+                1.18,
+                112,
+                1.18,
+                113,
+                1.18,
+                114,
+                1.18,
+                115,
+                1.18,
+                116,
+                1.18,
+                117,
+                1.18,
+                118,
+                1.18,
+                119,
+                1.18,
+                120,
+                1.18,
+                121,
+                1.525,
+                122,
+                1.18,
+                123,
+                1.18,
+                124,
+                1.525,
+                125,
+                1.691,
+                126,
+                1.18,
+                127,
+                1.18
             ]
         ],
         [
             "title//MeetAndTalk/documentation/installations/",
             [
-                103,
+                128,
                 0.631
             ]
         ],
         [
             "text//MeetAndTalk/documentation/installations/",
             [
-                103,
-                0.785
+                128,
+                0.787
             ]
         ]
     ],
@@ -429,6 +489,23 @@
             }
         ],
         [
+            "all",
+            {
+                "_index": 106,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                37,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "an",
             {
                 "_index": 23,
@@ -516,6 +593,23 @@
             }
         ],
         [
+            "apply",
+            {
+                "_index": 118,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                132,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "appreciate",
             {
                 "_index": 85,
@@ -526,6 +620,23 @@
                             [
                                 722,
                                 10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "are",
+            {
+                "_index": 108,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                57,
+                                3
                             ]
                         ]
                     }
@@ -605,6 +716,23 @@
             }
         ],
         [
+            "be",
+            {
+                "_index": 113,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                84,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "believe",
             {
                 "_index": 68,
@@ -649,6 +777,23 @@
                             [
                                 192,
                                 9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "callout",
+            {
+                "_index": 103,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                19,
+                                7
                             ]
                         ]
                     }
@@ -813,6 +958,23 @@
             }
         ],
         [
+            "described",
+            {
+                "_index": 114,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                87,
+                                9
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "design",
             {
                 "_index": 28,
@@ -899,6 +1061,23 @@
                             [
                                 8,
                                 10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "differences",
+            {
+                "_index": 107,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                45,
+                                11
                             ]
                         ]
                     }
@@ -1075,6 +1254,31 @@
                                 4
                             ]
                         ]
+                    },
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                170,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "functions",
+            {
+                "_index": 126,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                220,
+                                9
+                            ]
+                        ]
                     }
                 }
             }
@@ -1148,6 +1352,23 @@
             }
         ],
         [
+            "here,",
+            {
+                "_index": 110,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                68,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "hope",
             {
                 "_index": 47,
@@ -1194,6 +1415,14 @@
                                 2
                             ]
                         ]
+                    },
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                102,
+                                2
+                            ]
+                        ]
                     }
                 }
             }
@@ -1235,7 +1464,7 @@
         [
             "installation",
             {
-                "_index": 103,
+                "_index": 128,
                 "title": {
                     "/MeetAndTalk/documentation/installations/": {
                         "position": [
@@ -1386,6 +1615,23 @@
             }
         ],
         [
+            "listed",
+            {
+                "_index": 109,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                61,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "love",
             {
                 "_index": 91,
@@ -1487,6 +1733,61 @@
             }
         ],
         [
+            "node",
+            {
+                "_index": 121,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                153,
+                                4
+                            ],
+                            [
+                                189,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "nodes",
+            {
+                "_index": 120,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                147,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "not",
+            {
+                "_index": 105,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                33,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "on",
             {
                 "_index": 73,
@@ -1497,6 +1798,40 @@
                             [
                                 603,
                                 2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "only",
+            {
+                "_index": 115,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                97,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "other",
+            {
+                "_index": 127,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                230,
+                                5
                             ]
                         ]
                     }
@@ -1593,6 +1928,23 @@
             }
         ],
         [
+            "pro",
+            {
+                "_index": 122,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                158,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "purchasing",
             {
                 "_index": 44,
@@ -1620,6 +1972,23 @@
                             [
                                 756,
                                 7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sections",
+            {
+                "_index": 117,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                118,
+                                8
                             ]
                         ]
                     }
@@ -1674,6 +2043,57 @@
                             ],
                             [
                                 439,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "some",
+            {
+                "_index": 111,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                74,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "specific",
+            {
+                "_index": 116,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                109,
+                                8
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "start",
+            {
+                "_index": 123,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                183,
                                 5
                             ]
                         ]
@@ -1896,6 +2316,14 @@
                                 4
                             ]
                         ]
+                    },
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                127,
+                                4
+                            ]
+                        ]
                     }
                 }
             }
@@ -1919,6 +2347,35 @@
                             [
                                 650,
                                 3
+                            ]
+                        ]
+                    },
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                41,
+                                3
+                            ],
+                            [
+                                105,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "them.",
+            {
+                "_index": 119,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                141,
+                                5
                             ]
                         ]
                     }
@@ -1964,6 +2421,23 @@
             }
         ],
         [
+            "title",
+            {
+                "_index": 104,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                27,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "to",
             {
                 "_index": 1,
@@ -1998,6 +2472,14 @@
                             ],
                             [
                                 827,
+                                2
+                            ]
+                        ]
+                    },
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                138,
                                 2
                             ]
                         ]
@@ -2091,6 +2573,31 @@
             }
         ],
         [
+            "value",
+            {
+                "_index": 125,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                202,
+                                5
+                            ],
+                            [
+                                208,
+                                5
+                            ],
+                            [
+                                214,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "version",
             {
                 "_index": 101,
@@ -2117,6 +2624,14 @@
                         "position": [
                             [
                                 0,
+                                7
+                            ],
+                            [
+                                162,
+                                7
+                            ],
+                            [
+                                175,
                                 7
                             ]
                         ]
@@ -2248,6 +2763,23 @@
             }
         ],
         [
+            "will",
+            {
+                "_index": 112,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                79,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
             "with",
             {
                 "_index": 22,
@@ -2262,6 +2794,27 @@
                             [
                                 700,
                                 4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "yes",
+            {
+                "_index": 124,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                194,
+                                3
+                            ],
+                            [
+                                198,
+                                3
                             ]
                         ]
                     }

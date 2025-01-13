@@ -5,7 +5,7 @@
     },
     "/MeetAndTalk/documentation/version-difference/": {
         "title": " Version Difference",
-        "text": "Version Difference"
+        "text": "Version Difference Callout Title Not all the differences are listed here, some will be described only in the specific sections that apply to them. Nodes Node Pro Version Free Version Start Node Yes Yes Value Value Value Functions Other"
     },
     "/MeetAndTalk/documentation/installations/": {
         "title": " Installation",
