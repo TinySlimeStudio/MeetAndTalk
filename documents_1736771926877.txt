@@ -13,7 +13,7 @@
     },
     "/MeetAndTalk/documentation/dialogue-start/": {
         "title": "Dialogue Start",
-        "text": "Dialogue Start \n   \n   \n Card Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \n   \n     \n         \n     \n   \n   \n     \n       Card Title \n     \n     \n       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \n     \n   \n / Available only in Pro Version Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+        "text": "Dialogue Start Dialogue with Rensponses Available only in Pro Version Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dialogue Start in Dialogue Editor Version Value Description Free & Pro Audio Clip Audio played when the node begins. Pro Only Character SO Name of the character delivering the dialogue."
     },
     "/MeetAndTalk/documentation/dialogue-end/": {
         "title": "Dialogue End",
