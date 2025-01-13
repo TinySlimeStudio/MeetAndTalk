@@ -45,7 +45,7 @@
     </style>
     <script>
         function getInitialTheme() {
-            const savedTheme = localStorage.getItem('theme') || 'system';
+            const savedTheme = localStorage.getItem('theme') || 'dark';
             if (savedTheme === 'light' || savedTheme === 'dark') return savedTheme;
             return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
         }
@@ -68,6 +68,17 @@
                             href="/MeetAndTalk/"
                         >
                             Documentation
+                        </sl-button>
+                         
+                
+                    
+                        <sl-button 
+                            class="nav_button"
+                            size="medium" 
+                            href="https://discord.gg/KtHKbYjBMS"
+                             target="_blank" 
+                        >
+                            Discord
                         </sl-button>
                          
                 
@@ -147,16 +158,20 @@
                 <div class="logo">
                     
                         <div class="icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
-  <path d="M8.707 1.5a1 1 0 0 0-1.414 0L.646 8.146a.5.5 0 0 0 .708.708L8 2.207l6.646 6.647a.5.5 0 0 0 .708-.708L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293z"/>
-  <path d="m8 3.293 6 6V13.5a1.5 1.5 0 0 1-1.5 1.5h-9A1.5 1.5 0 0 1 2 13.5V9.293z"/>
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -0.5 64 64" shape-rendering="crispEdges">
+<metadata>Made with Pixels to Svg https://codepen.io/shshaw/pen/XbxvNj</metadata>
+<path stroke="#00396d" d="M0 0h4M6 0h26M0 1h4M6 1h26M0 2h2M30 2h2M0 3h2M30 3h2M4 4h2M30 4h2M4 5h2M30 5h2M0 6h2M30 6h2M0 7h2M30 7h2M0 8h2M30 8h2M0 9h2M30 9h2M0 10h2M30 10h2M0 11h2M30 11h2M0 12h2M30 12h2M0 13h2M30 13h2M0 14h2M0 15h2M0 16h2M0 17h2M0 18h2M0 19h2M0 20h2M0 21h2M0 22h2M0 23h2M0 24h2M0 25h2M0 26h2M0 27h2M0 28h2M0 29h2M0 30h12M52 30h2M0 31h12M52 31h2M54 32h10M54 33h10M62 34h2M62 35h2M62 36h2M62 37h2M62 38h2M62 39h2M62 40h2M62 41h2M62 42h2M62 43h2M30 44h2M62 44h2M30 45h2M62 45h2M32 46h2M62 46h2M32 47h2M62 47h2M32 48h2M62 48h2M32 49h2M62 49h2M32 50h2M62 50h2M32 51h2M62 51h2M32 52h2M62 52h2M32 53h2M62 53h2M32 54h2M62 54h2M32 55h2M62 55h2M32 56h2M62 56h2M32 57h2M62 57h2M32 58h2M58 58h2M32 59h2M58 59h2M32 60h2M62 60h2M32 61h2M62 61h2M32 62h26M60 62h4M32 63h26M60 63h4" />
+<path stroke="#0098dc" d="M4 0h2M4 1h2M2 2h28M2 3h28M0 4h4M6 4h2M10 4h2M14 4h16M50 4h2M54 4h2M0 5h4M6 5h2M10 5h2M14 5h16M50 5h2M54 5h2M2 6h28M2 7h28M2 8h2M6 8h2M10 8h20M54 8h2M58 8h2M2 9h2M6 9h2M10 9h20M54 9h2M58 9h2M2 10h28M2 11h28M2 12h2M6 12h24M58 12h2M2 13h2M6 13h24M58 13h2M2 14h12M2 15h12M2 16h10M2 17h10M2 18h10M52 18h2M2 19h10M52 19h2M2 20h10M52 20h2M2 21h10M52 21h2M2 22h10M52 22h2M2 23h10M52 23h2M2 24h10M52 24h2M2 25h10M52 25h2M2 26h10M52 26h2M2 27h10M52 27h2M2 28h10M52 28h2M2 29h10M52 29h2M54 34h8M54 35h8M54 36h8M54 37h8M54 38h8M54 39h8M54 40h8M54 41h8M52 42h10M52 43h10M16 44h4M50 44h12M16 45h4M50 45h12M28 46h2M34 46h28M28 47h2M34 47h28M26 48h2M34 48h28M26 49h2M34 49h28M4 50h2M24 50h2M34 50h24M60 50h2M4 51h2M24 51h2M34 51h24M60 51h2M22 52h2M34 52h28M22 53h2M34 53h28M4 54h2M8 54h2M34 54h20M56 54h2M60 54h2M4 55h2M8 55h2M34 55h20M56 55h2M60 55h2M34 56h28M34 57h28M8 58h2M12 58h2M34 58h16M52 58h2M56 58h2M60 58h4M8 59h2M12 59h2M34 59h16M52 59h2M56 59h2M60 59h4M34 60h28M34 61h28M58 62h2M58 63h2" />
+<path stroke="#0069aa" d="M32 0h26M60 0h4M32 1h26M60 1h4M32 2h2M62 2h2M32 3h2M62 3h2M8 4h2M12 4h2M32 4h2M58 4h2M8 5h2M12 5h2M32 5h2M58 5h2M32 6h2M62 6h2M32 7h2M62 7h2M4 8h2M8 8h2M32 8h2M62 8h2M4 9h2M8 9h2M32 9h2M62 9h2M32 10h2M62 10h2M32 11h2M62 11h2M4 12h2M32 12h2M62 12h2M4 13h2M32 13h2M62 13h2M62 14h2M62 15h2M62 16h2M62 17h2M16 18h14M62 18h2M16 19h14M62 19h2M62 20h2M62 21h2M16 22h6M62 22h2M16 23h6M62 23h2M62 24h2M62 25h2M16 26h10M62 26h2M16 27h10M62 27h2M62 28h2M62 29h2M16 30h6M54 30h10M16 31h6M54 31h10M0 32h12M0 33h12M0 34h2M52 34h2M0 35h2M52 35h2M0 36h2M52 36h2M0 37h2M52 37h2M0 38h2M52 38h2M0 39h2M52 39h2M0 40h2M52 40h2M0 41h2M52 41h2M0 42h2M50 42h2M0 43h2M50 43h2M0 44h2M34 44h16M0 45h2M34 45h16M0 46h2M30 46h2M0 47h2M30 47h2M0 48h2M30 48h2M0 49h2M30 49h2M0 50h2M30 50h2M58 50h2M0 51h2M30 51h2M58 51h2M0 52h2M30 52h2M0 53h2M30 53h2M0 54h2M30 54h2M54 54h2M58 54h2M0 55h2M30 55h2M54 55h2M58 55h2M0 56h2M30 56h2M0 57h2M30 57h2M4 58h2M30 58h2M50 58h2M54 58h2M4 59h2M30 59h2M50 59h2M54 59h2M0 60h2M30 60h2M0 61h2M30 61h2M0 62h4M6 62h26M0 63h4M6 63h26" />
+<path stroke="#00cdf9" d="M58 0h2M58 1h2M34 2h28M34 3h28M34 4h16M52 4h2M56 4h2M60 4h4M34 5h16M52 5h2M56 5h2M60 5h4M34 6h28M34 7h28M34 8h20M56 8h2M60 8h2M34 9h20M56 9h2M60 9h2M34 10h28M34 11h28M34 12h24M60 12h2M34 13h24M60 13h2M50 14h12M50 15h12M52 16h10M52 17h10M54 18h8M54 19h8M54 20h8M54 21h8M54 22h8M54 23h8M54 24h8M54 25h8M54 26h8M54 27h8M54 28h8M54 29h8M2 34h10M2 35h10M2 36h10M2 37h10M2 38h10M2 39h10M2 40h10M2 41h10M2 42h12M2 43h12M2 44h14M2 45h14M2 46h18M2 47h18M2 48h18M28 48h2M2 49h18M28 49h2M2 50h2M6 50h14M26 50h4M2 51h2M6 51h14M26 51h4M2 52h18M24 52h6M2 53h18M24 53h6M2 54h2M6 54h2M10 54h20M2 55h2M6 55h2M10 55h20M2 56h28M2 57h28M0 58h4M6 58h2M10 58h2M14 58h16M0 59h4M6 59h2M10 59h2M14 59h16M2 60h28M2 61h28M4 62h2M4 63h2" />
+<path stroke="#ffffff" d="M14 14h36M14 15h36M12 16h40M12 17h40M12 18h4M30 18h22M12 19h4M30 19h22M12 20h40M12 21h40M12 22h4M22 22h30M12 23h4M22 23h30M12 24h40M12 25h40M12 26h4M26 26h26M12 27h4M26 27h26M12 28h40M12 29h40M12 30h4M22 30h30M12 31h4M22 31h30M12 32h40M12 33h40M12 34h40M12 35h40M12 36h40M12 37h40M12 38h40M12 39h40M12 40h40M12 41h40M14 42h36M14 43h36M20 44h10M20 45h10M20 46h8M20 47h8M20 48h6M20 49h6M20 50h4M20 51h4M20 52h2M20 53h2" />
+<path stroke="#002e59" d="M52 32h2M52 33h2M32 44h2M32 45h2" />
 </svg>
-
                         </div>
                     
                     <div>
                         
-                            <span class="line-clamp-1">[Company Name]</span>
+                            <span class="line-clamp-1">Meet and Talk</span>
                         
                     </div>
                 </div>
@@ -170,6 +185,17 @@
                                     href="/MeetAndTalk/"
                                 >
                                     Documentation
+                                </sl-button>
+                                                    
+                        
+                            
+                                <sl-button 
+                                    class="nav_button" 
+                                    size="medium" 
+                                    href="https://discord.gg/KtHKbYjBMS"
+                                     target="_blank" 
+                                >
+                                    Discord
                                 </sl-button>
                                                     
                         
@@ -365,8 +391,8 @@
     import {preInitTree} from 'https://tinyslimestudio.github.io/MeetAndTalk/_lib/pre.js';
     preInitTree();
     await initPage();
-    await initTheme('system');
-    await initSearch('https://tinyslimestudio.github.io/MeetAndTalk', '1736760440454');
+    await initTheme('dark');
+    await initSearch('https://tinyslimestudio.github.io/MeetAndTalk', '1736761470665');
     document.documentElement.style.visibility = 'visible';
     document.documentElement.style.opacity = '1';
     initToc();
