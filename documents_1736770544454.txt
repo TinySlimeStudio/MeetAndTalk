@@ -1,0 +1,70 @@
+{
+    "/MeetAndTalk/": {
+        "title": " Welcome to Meet and Talk",
+        "text": "Welcome to Meet and Talk! Meet and Talk is a powerful and intuitive dialogue system that enables you to create complex and interactive conversations using a graphical editor. With an advanced branching system, you can design dynamic dialogue paths that adapt to player choices and influence in-game events. Support Tiny Slime Studio! Thank you for purchasing  Meet and Talk ! We hope you enjoy it as much as we loved creating it. At  Tiny Slime Studio , we’re passionate about delivering tools that empower developers like you, and we truly believe  Meet and Talk  is the best dialogue editor available on the Unity Asset Store. We can’t wait to see the incredible interactive experiences you create with it! We’d greatly appreciate your support through a review. Share what you love about  Meet and Talk  and help us continue to improve! Meet and Talk - Dialogue System Price: 4.99$ / 4.59€ Meet and Talk - Dialogue System - Free Version Price: Free"
+    },
+    "/MeetAndTalk/documentation/version-difference/": {
+        "title": " Version Difference",
+        "text": "Version Difference Callout Title Not all the differences are listed here, some will be described only in the specific sections that apply to them. Nodes Node Pro Version Free Version Start Node Yes Yes Value Value Value Functions Other"
+    },
+    "/MeetAndTalk/documentation/installations/": {
+        "title": " Installation",
+        "text": "Installation 1 Open / Create Project Open or create a new unity project, version 2021.3+ Unity Hub Version 3.11 2 Open Package Manager From the toolbar, select  Window -> Package Manager  to open the Package Manager Unity Edtior 2021.3.17f 3 Install Package From Droplist Packages: select  My Assets  and search  Meet and Talk , download and install Package Manager from Unity Editor 2021.3.17f"
+    },
+    "/MeetAndTalk/documentation/dialogue-start/": {
+        "title": "Dialogue Start",
+        "text": "Dialogue Start \n   \n   \n Card Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. / Available only in Pro Version Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "/MeetAndTalk/documentation/dialogue-end/": {
+        "title": "Dialogue End",
+        "text": "Dialogue End"
+    },
+    "/MeetAndTalk/documentation/dialogue-n/": {
+        "title": "Dialogue Node",
+        "text": "Dialogue Node"
+    },
+    "/MeetAndTalk/documentation/dialogue-choice/": {
+        "title": "Dialogue Choice ",
+        "text": "Dialogue Choice"
+    },
+    "/MeetAndTalk/documentation/advanced-choice/": {
+        "title": "Advanced Choice",
+        "text": "Advanced Choice"
+    },
+    "/MeetAndTalk/documentation/dialogue-time-ch/": {
+        "title": "Dialogue Time Choice",
+        "text": "Dialogue Time Choice"
+    },
+    "/MeetAndTalk/documentation/advanced-time-ch/": {
+        "title": "Advanced Time Choice",
+        "text": "Advanced Time Choice"
+    },
+    "/MeetAndTalk/documentation/event-invoker/": {
+        "title": "Event Invoker",
+        "text": "Event Invoker"
+    },
+    "/MeetAndTalk/documentation/random-output/": {
+        "title": "Random Output",
+        "text": "Random Output"
+    },
+    "/MeetAndTalk/documentation/simple-branch/": {
+        "title": "Simple Branch",
+        "text": "Simple Branch"
+    },
+    "/MeetAndTalk/documentation/advanced-branch/": {
+        "title": "Advanced Branch",
+        "text": "Advanced Branch"
+    },
+    "/MeetAndTalk/documentation/reset-saved-n/": {
+        "title": "Reset Saved Node",
+        "text": "Reset Saved Node"
+    },
+    "/MeetAndTalk/documentation/change-m/": {
+        "title": "Change Music",
+        "text": "Change Music"
+    },
+    "/MeetAndTalk/documentation/editor-note/": {
+        "title": "Editor Notes",
+        "text": "Editor Notes"
+    }
+}
