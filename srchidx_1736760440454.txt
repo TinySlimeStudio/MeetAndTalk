@@ -1,0 +1,799 @@
+{
+    "version": "2.3.9",
+    "fields": [
+        "title",
+        "text"
+    ],
+    "fieldVectors": [
+        [
+            "title//MeetAndTalk/",
+            [
+                0,
+                0.346,
+                1,
+                0.346,
+                2,
+                0.346,
+                3,
+                0.346,
+                4,
+                0.346
+            ]
+        ],
+        [
+            "text//MeetAndTalk/",
+            [
+                0,
+                0.269,
+                1,
+                0.269,
+                2,
+                0.269,
+                3,
+                0.269,
+                4,
+                0.269,
+                5,
+                0.562,
+                6,
+                0.562,
+                7,
+                0.891,
+                8,
+                0.891,
+                9,
+                0.891,
+                10,
+                0.891,
+                11,
+                0.891,
+                12,
+                0.891,
+                13,
+                0.891,
+                14,
+                0.891,
+                15,
+                0.891,
+                16,
+                0.891,
+                17,
+                0.891,
+                18,
+                0.891,
+                19,
+                0.891,
+                20,
+                0.891,
+                21,
+                0.891,
+                22,
+                0.891,
+                23,
+                0.891,
+                24,
+                0.891,
+                25,
+                0.891,
+                26,
+                0.891,
+                27,
+                0.562
+            ]
+        ],
+        [
+            "title//MeetAndTalk/documentation/version-difference/",
+            [
+                28,
+                0.524,
+                29,
+                0.524
+            ]
+        ],
+        [
+            "text//MeetAndTalk/documentation/version-difference/",
+            [
+                28,
+                0.735,
+                29,
+                0.735
+            ]
+        ],
+        [
+            "title//MeetAndTalk/documentation/installations/",
+            [
+                30,
+                0.631
+            ]
+        ],
+        [
+            "text//MeetAndTalk/documentation/installations/",
+            [
+                30,
+                0.764
+            ]
+        ]
+    ],
+    "invertedIndex": [
+        [
+            "1",
+            {
+                "_index": 5,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                25,
+                                1
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "adipiscing",
+            {
+                "_index": 14,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                78,
+                                10
+                            ],
+                            [
+                                223,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "aliqua.",
+            {
+                "_index": 26,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                154,
+                                7
+                            ],
+                            [
+                                299,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "amet,",
+            {
+                "_index": 12,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                60,
+                                5
+                            ],
+                            [
+                                205,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "and",
+            {
+                "_index": 3,
+                "title": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                17,
+                                3
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                16,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "card",
+            {
+                "_index": 27,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                172,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "consectetur",
+            {
+                "_index": 13,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                66,
+                                11
+                            ],
+                            [
+                                211,
+                                11
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "difference",
+            {
+                "_index": 29,
+                "title": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                9,
+                                10
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                8,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "do",
+            {
+                "_index": 17,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                99,
+                                2
+                            ],
+                            [
+                                244,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "dolor",
+            {
+                "_index": 10,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                50,
+                                5
+                            ],
+                            [
+                                195,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "dolore",
+            {
+                "_index": 24,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                141,
+                                6
+                            ],
+                            [
+                                286,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "eiusmod",
+            {
+                "_index": 18,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                102,
+                                7
+                            ],
+                            [
+                                247,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "elit,",
+            {
+                "_index": 15,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                89,
+                                5
+                            ],
+                            [
+                                234,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "et",
+            {
+                "_index": 23,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                138,
+                                2
+                            ],
+                            [
+                                283,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "incididunt",
+            {
+                "_index": 20,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                117,
+                                10
+                            ],
+                            [
+                                262,
+                                10
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "installation",
+            {
+                "_index": 30,
+                "title": {
+                    "/MeetAndTalk/documentation/installations/": {
+                        "position": [
+                            [
+                                1,
+                                12
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/MeetAndTalk/documentation/installations/": {
+                        "position": [
+                            [
+                                0,
+                                12
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "ipsum",
+            {
+                "_index": 9,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                44,
+                                5
+                            ],
+                            [
+                                189,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "labore",
+            {
+                "_index": 22,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                131,
+                                6
+                            ],
+                            [
+                                276,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "lorem",
+            {
+                "_index": 8,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                38,
+                                5
+                            ],
+                            [
+                                183,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "magna",
+            {
+                "_index": 25,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                148,
+                                5
+                            ],
+                            [
+                                293,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "meet",
+            {
+                "_index": 2,
+                "title": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                12,
+                                4
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                11,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sed",
+            {
+                "_index": 16,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                95,
+                                3
+                            ],
+                            [
+                                240,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "sit",
+            {
+                "_index": 11,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                56,
+                                3
+                            ],
+                            [
+                                201,
+                                3
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "step",
+            {
+                "_index": 6,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                27,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "talk",
+            {
+                "_index": 4,
+                "title": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                21,
+                                4
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                20,
+                                4
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "tempor",
+            {
+                "_index": 19,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                110,
+                                6
+                            ],
+                            [
+                                255,
+                                6
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "title",
+            {
+                "_index": 7,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                32,
+                                5
+                            ],
+                            [
+                                177,
+                                5
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "to",
+            {
+                "_index": 1,
+                "title": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                9,
+                                2
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                8,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "ut",
+            {
+                "_index": 21,
+                "title": {},
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                128,
+                                2
+                            ],
+                            [
+                                273,
+                                2
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "version",
+            {
+                "_index": 28,
+                "title": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                1,
+                                7
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/MeetAndTalk/documentation/version-difference/": {
+                        "position": [
+                            [
+                                0,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ],
+        [
+            "welcome",
+            {
+                "_index": 0,
+                "title": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                1,
+                                7
+                            ]
+                        ]
+                    }
+                },
+                "text": {
+                    "/MeetAndTalk/": {
+                        "position": [
+                            [
+                                0,
+                                7
+                            ]
+                        ]
+                    }
+                }
+            }
+        ]
+    ],
+    "pipeline": []
+}

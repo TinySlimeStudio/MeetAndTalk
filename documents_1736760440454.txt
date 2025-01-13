@@ -1,0 +1,14 @@
+{
+    "/MeetAndTalk/": {
+        "title": " Welcome to Meet and Talk",
+        "text": "Welcome to Meet and Talk 1 Step Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \n   \n   \n Card Title Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "/MeetAndTalk/documentation/version-difference/": {
+        "title": " Version Difference",
+        "text": "Version Difference"
+    },
+    "/MeetAndTalk/documentation/installations/": {
+        "title": " Installation",
+        "text": "Installation"
+    }
+}

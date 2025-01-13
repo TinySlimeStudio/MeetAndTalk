@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tinyslimestudio.github.io/MeetAndTalk/sitemap_index.xml
